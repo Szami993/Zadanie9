@@ -1,0 +1,22 @@
+<html>
+<head></head>
+<body>
+<header>
+  <h1>Zasada zachowania pędu</h1>
+</header>
+<main>
+  <dfn>
+    Jeżeli wypadkowa sił zewnętrznych działających na układ jest równa zeru,<br>
+    to całkowity wektor pędu układu pozostaje stały.
+  </dfn>
+</main>
+<aside>
+    <video  width="300" height="200" controls autoplay>
+      <sourcesrc="dos.ogg" type="video/ogg" />
+      <sourcesrc="dos.mp4" type="video/mp4" />
+      <sourcesrc="dos.webm" type="video/webm" />
+      Twoja przęglądarka nie może wyświetlic tego filmiku.
+    </video>
+</aside>
+</body>
+</html>
